@@ -1,5 +1,5 @@
 {
-  "name": "k-sync",
+  "name": "k-sync-debug",
   "version": "0.12.8",
   "description": "JSON OT database backend",
   "main": "lib/index.js",
